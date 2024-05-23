@@ -1,0 +1,202 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color:  rgb(255, 255, 255);
+}
+
+header {
+background-color: rgb(25, 21, 80);
+text-align: left;
+font-size: 30px;
+color:  white;
+padding: 25px;
+width: 100%;
+}
+
+footer {
+background-color:  rgb(25, 21, 80) ;
+color: white;
+padding: 10px 20px;
+position: fixed;
+bottom: 0;
+width: 100%;
+margin:  5px 0;
+}
+
+.container {
+    float: left;
+    width: 235px;
+    height: 228px;
+    margin: 100px 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px black;
+    overflow: hidden;
+  }
+
+  #b1 {
+background-color: rgb(25, 21, 80) ;
+color: white;
+width: 85px;
+height: 20px;
+border-radius: 5px;
+border-color: rgb(25, 21, 80);
+
+  }
+  
+  .raphinha{
+    background-image: url('https://www.guiafantasy.com/fotos_caras/1504.png');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+  #container2{
+    float: left;
+    width: 235px;
+    height: 228px;
+    margin: 100px 10px;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px black;
+    overflow: hidden;
+}
+
+#b2 {
+  background-color: rgb(25, 21, 80) ;
+  color: white;
+  width: 85px;
+  height: 20px;
+  border-radius: 5px;
+  border-color: rgb(25, 21, 80);
+ 
+}
+
+  .yamal{
+    background-image: url('https://www.guiafantasy.com/fotos_caras/1714.png');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+  #container3{
+    float: left;
+    width: 235px;
+    height: 228px;
+    margin: 100px 10px;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px black;
+    overflow: hidden;
+}
+
+#b3 {
+  background-color: rgb(25, 21, 80) ;
+  color: white;
+  width: 85px;
+  height: 20px;
+  border-radius: 5px;
+  border-color: rgb(25, 21, 80);
+ 
+}
+
+  .lewa{
+    background-image: url('https://www.guiafantasy.com/fotos_caras/1505.png');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+  #container4{
+    float: left;
+    width: 235px;
+    height: 228px;
+    margin: 100px 10px;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px black;
+    overflow: hidden;
+}
+
+#b4 {
+  background-color: rgb(25, 21, 80) ;
+  color: white;
+  width: 85px;
+  height: 20px;
+  border-radius: 5px;
+  border-color: rgb(25, 21, 80);
+ 
+}
+
+  .felix{
+    background-image: url('https://assets.laliga.com/squad/2023/t178/p428399/256x256/p428399_t178_2023_1_003_000.png');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+
+  #container5{
+    float: left;
+    width: 235px;
+    height: 228px;
+    margin: 100px 10px;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px black;
+    overflow: hidden;
+}
+
+#b5 {
+  background-color: rgb(25, 21, 80) ;
+  color: white;
+  width: 85px;
+  height: 20px;
+  border-radius: 5px;
+  border-color: rgb(25, 21, 80);
+ 
+}
+
+  .araujo{
+    background-image: url('https://assets.laliga.com/squad/2023/t178/p445087/256x256/p445087_t178_2023_1_002_000.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+
+
+  
